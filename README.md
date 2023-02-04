@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhigahlot
-- 👀 I’m interested in ...making video games,coding
+
 - 🌱 I’m currently learning ...c,c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
